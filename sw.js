@@ -1,5 +1,5 @@
 /* Offline-Betrieb: App-Dateien beim ersten Besuch ablegen, danach zuerst daraus bedienen. */
-var CACHE = "kal-v1";
+var CACHE = "kal-v3";
 var ASSETS = ["./", "./index.html", "./manifest.webmanifest",
               "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
